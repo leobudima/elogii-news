@@ -1,12 +1,19 @@
 {{ define "main" }}
 <!-- prettier-ignore -->
 
-<!-- blog post -->
+<!-- News post -->
 <!-- prettier-ignore -->
 <section class="section pb-0">
   <div class="container">
     <div class="row">
-        <h1 class="headline">Tips, news and insights about delivery and field service management</h1>
+      <div class="col-lg-6 mb-6 mb-lg-0">
+        <img src="">
+      </div>
+      <div class="col-lg-6 mb-6 mb-lg-0">
+        <h1 class="headline">eLogii </h1>
+        <h1 class="headline">News Center</h1>
+        <h3 class="headline">Stay up to date with eLogii company news and press covreage.</h3>
+      </div>
       <div class="col-lg-9 mb-5 mb-lg-0">
         <div class="row">
           {{ $paginator := .Paginate (where .Site.RegularPages "Type" "post") }}
@@ -46,6 +53,6 @@
     </div>
   </div>
 </section>
-<!-- /blog post -->
+<!-- /news post -->
 
 {{ end }}

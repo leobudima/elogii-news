@@ -1,185 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Delivery Logistics on eLogii Blog - Delivery and Field Service Management Blog</title>
-    <link>https://elogii.com/blog/tags/delivery-logistics/</link>
-    <description>Recent content in Delivery Logistics on eLogii Blog - Delivery and Field Service Management Blog</description>
+    <title>Delivery Logistics on eLogii News - Delivery and Field Service Management News</title>
+    <link>https://elogii.com/news/tags/delivery-logistics/</link>
+    <description>Recent content in Delivery Logistics on eLogii News - Delivery and Field Service Management News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2020 23:00:00 +0000</lastBuildDate><atom:link href="https://elogii.com/blog/tags/delivery-logistics/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>7 Must-Read Books About Last-Mile Delivery</title>
-      <link>https://elogii.com/blog/books-last-mile-delivery/</link>
-      <pubDate>Thu, 19 Nov 2020 23:00:00 +0000</pubDate>
-      
-      <guid>https://elogii.com/blog/books-last-mile-delivery/</guid>
-      <description>In this article, you&amp;rsquo;ll see seven must-read books about last-mile delivery.</description>
-    </item>
-    
-    <item>
-      <title>9 Challenges of Last-Mile Delivery</title>
-      <link>https://elogii.com/blog/last-mile-delivery-challenges/</link>
-      <pubDate>Mon, 16 Nov 2020 11:00:00 +0000</pubDate>
-      
-      <guid>https://elogii.com/blog/last-mile-delivery-challenges/</guid>
-      <description>If you want to know how to improve your delivery operations, you should first understand these last-mile delivery challenges.</description>
-    </item>
-    
-    <item>
-      <title>Grocery Delivery Software: The Definitive Guide</title>
-      <link>https://elogii.com/blog/grocery-delivery-software/</link>
-      <pubDate>Fri, 13 Nov 2020 11:00:00 +0000</pubDate>
-      
-      <guid>https://elogii.com/blog/grocery-delivery-software/</guid>
-      <description>This is the definitive and complete guide to grocery delivery software.</description>
-    </item>
-    
-    <item>
-      <title>Last-Mile Delivery Logistics Behind Black Friday 2020</title>
-      <link>https://elogii.com/blog/last-mile-delivery-logistics-black-friday/</link>
-      <pubDate>Mon, 19 Oct 2020 10:00:00 +0000</pubDate>
-      
-      <guid>https://elogii.com/blog/last-mile-delivery-logistics-black-friday/</guid>
-      <description>It’s almost Thanksgiving (in the US at least). For everyone else in the world, that means Black Friday is near.</description>
-    </item>
-    
-    <item>
-      <title>Reverse Logistics: When eCommerce Return Costs Go Down, Profits Go Up</title>
-      <link>https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/</link>
-      <pubDate>Fri, 18 Sep 2020 10:00:00 +0000</pubDate>
-      
-      <guid>https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/</guid>
-      <description>We’ll let you in on a little secret: When eCommerce return costs go down, profits go up!</description>
-    </item>
-    
-    <item>
-      <title>7 Ways Delivery Management Software Cuts Costs and Saves You Money</title>
-      <link>https://elogii.com/blog/how-delivery-management-software-cuts-costs/</link>
-      <pubDate>Fri, 11 Sep 2020 10:00:00 +0000</pubDate>
-      
-      <guid>https://elogii.com/blog/how-delivery-management-software-cuts-costs/</guid>
-      <description>In this article, we’ll show you seven proven ways delivery management software cuts costs and saves you money.</description>
-    </item>
-    
-    <item>
-      <title>Upselling and Cross-Selling with Delivery: Myth or Reality?</title>
-      <link>https://elogii.com/blog/upselling-and-cross-selling-with-delivery/</link>
-      <pubDate>Mon, 07 Sep 2020 10:00:00 +0000</pubDate>
-      
-      <guid>https://elogii.com/blog/upselling-and-cross-selling-with-delivery/</guid>
-      <description>In this new post, we will show you how to start upselling and cross-selling with delivery.</description>
-    </item>
-    
-    <item>
-      <title>15 Biggest Mistakes in Delivery Management and Planning (for 2020)</title>
-      <link>https://elogii.com/blog/biggest-mistakes-in-delivery-management/</link>
-      <pubDate>Mon, 24 Aug 2020 10:00:00 +0000</pubDate>
-      
-      <guid>https://elogii.com/blog/biggest-mistakes-in-delivery-management/</guid>
-      <description>Mistakes happen.
-Orders get mixed up. Deliveries get lost. Items get damaged en route.</description>
-    </item>
-    
-    <item>
-      <title>Centralization vs. Decentralization: What’s the Best Approach for  Delivery?</title>
-      <link>https://elogii.com/blog/to-centralize-or-not-to-centralize-delivery/</link>
-      <pubDate>Mon, 17 Aug 2020 10:00:00 +0000</pubDate>
-      
-      <guid>https://elogii.com/blog/to-centralize-or-not-to-centralize-delivery/</guid>
-      <description>To centralize or not to centralize your delivery operations?
-It’s a hard call to make.</description>
-    </item>
-    
-    <item>
-      <title>How to Optimize Beverage Delivery (in 2020)</title>
-      <link>https://elogii.com/blog/how-to-optimize-beverage-delivery-in-2020/</link>
-      <pubDate>Fri, 14 Aug 2020 10:00:00 +0000</pubDate>
-      
-      <guid>https://elogii.com/blog/how-to-optimize-beverage-delivery-in-2020/</guid>
-      <description>In this guide, you’ll take a look at how to optimize your drink delivery in 2020, from the first to the last mile.</description>
-    </item>
-    
-    <item>
-      <title>12 Tactics to Grow Your Delivery Operations (in 2020)</title>
-      <link>https://elogii.com/blog/delivery-tactics-to-grow-operations/</link>
-      <pubDate>Fri, 31 Jul 2020 10:00:00 +0000</pubDate>
-      
-      <guid>https://elogii.com/blog/delivery-tactics-to-grow-operations/</guid>
-      <description>This post contains 12 proven tactics to grow your delivery operations in a matter of days.</description>
-    </item>
-    
-    <item>
-      <title>9 Biggest Delivery Challenges for eCommerce (and How to Solve Them)</title>
-      <link>https://elogii.com/blog/biggest-challenges-for-ecommerce-delivery/</link>
-      <pubDate>Mon, 27 Jul 2020 10:00:00 +0000</pubDate>
-      
-      <guid>https://elogii.com/blog/biggest-challenges-for-ecommerce-delivery/</guid>
-      <description>Delivery is the greatest hurdle in modern retail. The same is true when you sell products online.</description>
-    </item>
-    
-    <item>
-      <title>Building an Agile Delivery Operation</title>
-      <link>https://elogii.com/blog/agile-delivery-operations/</link>
-      <pubDate>Mon, 13 Jul 2020 10:00:00 +0000</pubDate>
-      
-      <guid>https://elogii.com/blog/agile-delivery-operations/</guid>
-      <description>This is a complete look at how to build an agile delivery operation.</description>
-    </item>
-    
-    <item>
-      <title>11 New Trends in 2020 for the Next 11 Years in Delivery</title>
-      <link>https://elogii.com/blog/delivery-management-trends/</link>
-      <pubDate>Mon, 15 Jun 2020 10:00:00 +0000</pubDate>
-      
-      <guid>https://elogii.com/blog/delivery-management-trends/</guid>
-      <description>Delivery is changing at the speed of light.
-Eleven years ago, customers wouldn’t have dreamed of receiving a delivery half-way around the world in just a couple of days.</description>
-    </item>
-    
-    <item>
-      <title>How to Compete with Amazon Delivery?</title>
-      <link>https://elogii.com/blog/how-to-compete-with-amazon-delivery/</link>
-      <pubDate>Mon, 08 Jun 2020 10:00:00 +0000</pubDate>
-      
-      <guid>https://elogii.com/blog/how-to-compete-with-amazon-delivery/</guid>
-      <description>When it comes to retail and delivery, Amazon is a force to be reckoned with.</description>
-    </item>
-    
-    <item>
-      <title>Reverse Logistics: How to Turn Failure into Opportunity</title>
-      <link>https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/</link>
-      <pubDate>Fri, 08 May 2020 10:00:00 +0000</pubDate>
-      
-      <guid>https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/</guid>
-      <description>The words reverse or return have gained a negative meaning over the years.</description>
-    </item>
-    
-    <item>
-      <title>Internal vs. External Delivery Fleet: Everything You Need to Know</title>
-      <link>https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/</link>
-      <pubDate>Mon, 27 Apr 2020 10:00:00 +0000</pubDate>
-      
-      <guid>https://elogii.com/blog/internal-vs-external-delivery-fleet-everything-you-need-to-know/</guid>
-      <description>Outsourcing.
-These days it seems every company is looking at ways to contract at least some part of their last-mile delivery to a third party.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 20 Apr 2020 10:00:00 +0000</lastBuildDate><atom:link href="https://elogii.com/news/tags/delivery-logistics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>7 Key Metrics in Delivery Logistics to Measure for Success</title>
-      <link>https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/</link>
+      <link>https://elogii.com/news/7-key-metrics-in-delivery-logistics-to-measure-for-success/</link>
       <pubDate>Mon, 20 Apr 2020 10:00:00 +0000</pubDate>
       
-      <guid>https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-measure-for-success/</guid>
+      <guid>https://elogii.com/news/7-key-metrics-in-delivery-logistics-to-measure-for-success/</guid>
       <description>Oftentimes, it is difficult to determine the success of delivery logistics.</description>
-    </item>
-    
-    <item>
-      <title>The State of Delivery in Time of the Coronavirus</title>
-      <link>https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/</link>
-      <pubDate>Tue, 14 Apr 2020 22:00:00 +0000</pubDate>
-      
-      <guid>https://elogii.com/blog/the-state-of-delivery-in-time-of-the-coronavirus/</guid>
-      <description>It was inevitable that the outbreak of COVID-19 would cause tectonic changes to last-mile delivery.</description>
     </item>
     
   </channel>

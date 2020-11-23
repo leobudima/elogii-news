@@ -3,13 +3,14 @@ canonical = "https://elogii.com/blog/7-key-metrics-in-delivery-logistics-to-meas
 categories = ["Last-Mile Delivery"]
 date = 2020-04-20T10:00:00Z
 description = "KPIs are the windows of your delivery. So we take a deep dive into the 7 key metrics in delivery logistics and how to measure them for success."
-image = "/blog/uploads/key-metrics-in-delivery-logistics.jpg"
+image = "/news/uploads/key-metrics-in-delivery-logistics.jpg"
 tags = ["Last-Mile Delivery", "Delivery Logistics"]
 title = "7 Key Metrics in Delivery Logistics to Measure for Success"
 titletag = "7 Key Metrics in Delivery Logistics to Measure for Success"
 type = "post"
 
 +++
+
 Oftentimes, it is difficult to determine the success of delivery logistics. It might seem as though everything is going according to plan, that you are fulfilling enough orders to make returns, but then it turns out you are actually losing money at the end of each month.
 
 The only way to know the state of your delivery is to use key performance indicators (KPIs) to evaluate various areas of your service.
@@ -46,15 +47,15 @@ The percentage of orders executed free of errors when compared against the total
 
 The order accuracy rate is calculated using this simple perfect order fulfilment formula:
 
-![](/blog/uploads/order-accuracy-kpi.png)
+![](/blog/news/order-accuracy-kpi.png)
 
 An error order can occur at any point during fulfillment. That’s why it is frequently measured for the entire service as well as at each stage of the delivery process:
 
-* Inventory forecasting;
-* Procurement of products and services;
-* Invoicing of delivery orders;
-* [**Depot planning**](https://elogii.com/blog/how-to-effectively-plan-your-deliveries-planning-at-a-depot-level-vs-centralized-multi-depot-planning/ "single vs multi-depot planning") and pick-up;
-* Transportation and drop-off.
+- Inventory forecasting;
+- Procurement of products and services;
+- Invoicing of delivery orders;
+- [**Depot planning**](https://elogii.com/blog/how-to-effectively-plan-your-deliveries-planning-at-a-depot-level-vs-centralized-multi-depot-planning/ "single vs multi-depot planning") and pick-up;
+- Transportation and drop-off.
 
 Because inaccuracies can happen throughout the delivery lifecycle, it is difficult to track the accuracy rate as it relies on drivers, operations managers, or customers to report errors.
 
@@ -92,11 +93,11 @@ The average cost of delivering products or services based on specific key parame
 
 In each case, the parameter determines how the cost will be measured. When it comes to distance the formula is:
 
-![delivery logistics kpi metric](/blog/uploads/average-cost-of-delivery-distance-kpi.png "Average Delivery Cost Per Distance")
+![delivery logistics kpi metric](/news/uploads/average-cost-of-delivery-distance-kpi.png "Average Delivery Cost Per Distance")
 
 For vehicle and delivery type the formula is somewhat different, as it needs to take into account the specific item or vehicle in question:
 
-![](/blog/uploads/average-cost-of-delivery-kpi.png)
+![](/blog/news/average-cost-of-delivery-kpi.png)
 
 Companies can then use these averages to implement changes to the service, which might reduce its cost without affecting performance output, like using better vehicles or implementing [**route optimization software**](https://elogii.com/platform "route optimization software").
 
