@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Field Service Management Software on eLogii Blog - Delivery and Field Service Management Blog</title>
+    <link>https://elogii.com/blog/tags/field-service-management-software/</link>
+    <description>Recent content in Field Service Management Software on eLogii Blog - Delivery and Field Service Management Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2020 10:00:00 +0000</lastBuildDate><atom:link href="https://elogii.com/blog/tags/field-service-management-software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What Is Delivery Management Software? And How Is It Different from Everything Else on the Market?</title>
+      <link>https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/</link>
+      <pubDate>Mon, 25 May 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://elogii.com/blog/what-is-delivery-management-software-and-how-is-it-different-from-everything-else-on-the-market/</guid>
+      <description>What is Delivery Management Software? Delivery management software (DMS) is an end-to-end digital logistics tool used for planning, managing, optimizing, and executing delivery activities.</description>
+    </item>
+    
+    <item>
+      <title>How Do You Successfully Manage Your Field Service Using Software?</title>
+      <link>https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/</link>
+      <pubDate>Thu, 19 Mar 2020 23:00:00 +0000</pubDate>
+      
+      <guid>https://elogii.com/blog/how-do-you-successfully-manage-your-field-service-using-software/</guid>
+      <description>Running logistics operations in any business environment is a challenge. For field service companies, the task is even more difficult.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software as a Service on eLogii Blog - Delivery and Field Service Management Blog</title>
+    <link>https://elogii.com/blog/tags/software-as-a-service/</link>
+    <description>Recent content in Software as a Service on eLogii Blog - Delivery and Field Service Management Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 May 2020 10:00:00 +0000</lastBuildDate><atom:link href="https://elogii.com/blog/tags/software-as-a-service/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adopting the Cloud-First Approach to Delivery Logistics</title>
+      <link>https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/</link>
+      <pubDate>Fri, 15 May 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://elogii.com/blog/adopting-the-cloud-first-approach-to-delivery-logistics/</guid>
+      <description>A cloud has gathered over the last mile. It’s stirring up a storm over the delivery logistics landscape that promises to disrupt and turn the status quo in its favor.</description>
+    </item>
+    
+  </channel>
+</rss>

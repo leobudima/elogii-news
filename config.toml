@@ -1,10 +1,10 @@
-baseURL = "https://elogii.com/news/"
+baseURL = "https://elogii.com/blog/"
 disqusShortname = ""
 languageCode = "en-us"
 paginate = 9
 summaryLength = "10"
 theme = "liva-hugo"
-title = "eLogii News - Delivery and Field Service Management Blog"
+title = "eLogii Blog - Delivery and Field Service Management Blog"
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]

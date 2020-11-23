@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ePOD on eLogii Blog - Delivery and Field Service Management Blog</title>
+    <link>https://elogii.com/blog/tags/epod/</link>
+    <description>Recent content in ePOD on eLogii Blog - Delivery and Field Service Management Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 May 2020 10:00:00 +0000</lastBuildDate><atom:link href="https://elogii.com/blog/tags/epod/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Electronic Proof of Delivery (ePOD): How Does It Improve Logistics Operations</title>
+      <link>https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/</link>
+      <pubDate>Fri, 01 May 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://elogii.com/blog/electronic-proof-of-delivery-epod-how-does-it-improve-logistics-operations/</guid>
+      <description>What Is Electronic Proof of Delivery? Electronic proof of delivery (ePOD) refers to a digital version of the delivery note (a document used to confirm completed deliveries and in some cases also to allow billing), and the software app that enables field agents to capture that data and verify the success or failure of their tasks.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reverse Logistics on eLogii Blog - Delivery and Field Service Management Blog</title>
+    <link>https://elogii.com/blog/tags/reverse-logistics/</link>
+    <description>Recent content in Reverse Logistics on eLogii Blog - Delivery and Field Service Management Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Sep 2020 10:00:00 +0000</lastBuildDate><atom:link href="https://elogii.com/blog/tags/reverse-logistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reverse Logistics: When eCommerce Return Costs Go Down, Profits Go Up</title>
+      <link>https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/</link>
+      <pubDate>Fri, 18 Sep 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://elogii.com/blog/reverse-logistics-and-ecommerce-returns/</guid>
+      <description>We’ll let you in on a little secret: When eCommerce return costs go down, profits go up!</description>
+    </item>
+    
+    <item>
+      <title>Reverse Logistics: How to Turn Failure into Opportunity</title>
+      <link>https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/</link>
+      <pubDate>Fri, 08 May 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://elogii.com/blog/reverse-logistics-how-to-turn-failure-into-opportunity/</guid>
+      <description>The words reverse or return have gained a negative meaning over the years.</description>
+    </item>
+    
+  </channel>
+</rss>
