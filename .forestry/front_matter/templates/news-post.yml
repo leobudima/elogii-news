@@ -22,4 +22,5 @@ fields:
     maxSize: 64
   label: image
 pages:
+- content/test-broj-2.md
 - content/test-news.md
