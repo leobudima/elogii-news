@@ -486,7 +486,7 @@ a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-prima
     list-style-type: none; }
     .content ul li::before {
       position: absolute;
-      content: '\e71b';
+      content: "\e71b";
       font-family: "themify";
       font-size: 14px;
       left: 0;
@@ -551,11 +551,30 @@ a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-prima
   text-align: left; }
 
 .container .row .headline {
-  margin: 0px 50px 50px 50px;
-  text-align: center; }
+  text-align: right;
+  font-size: 80px;
+  color: #4e6cff;
+  line-height: 1; }
+  .container .row .headline .tm {
+    font-size: 25px;
+    bottom: 50px;
+    position: relative; }
+
+.container .row .headline:first-child {
+  margin-top: 130px; }
+
+.container .row .headline3 {
+  margin: 0px 0px 50px 50px;
+  text-align: right;
+  color: #4e6cff;
+  font-size: 38px; }
 
 .mx-auto .content p img {
   width: 100%; }
+
+.head-image {
+  width: 100%;
+  margin-bottom: 80px; }
 
 article.card .card-img-top {
   max-height: 280px;
