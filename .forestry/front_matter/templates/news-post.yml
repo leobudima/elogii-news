@@ -21,6 +21,11 @@ fields:
   config:
     maxSize: 64
   label: image
+- name: type
+  type: text
+  config:
+    required: false
+  label: type
 pages:
 - content/test-broj-2.md
 - content/test-news.md
