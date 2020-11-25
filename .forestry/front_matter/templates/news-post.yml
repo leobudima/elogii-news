@@ -41,6 +41,3 @@ fields:
   config:
     required: false
   label: title tag
-pages:
-- content/test-broj-2.md
-- content/test-news.md
