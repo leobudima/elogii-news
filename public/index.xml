@@ -6,7 +6,7 @@
     <description>Recent content on eLogii News - Delivery and Field Service Management News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2020 10:00:00 +0000</lastBuildDate><atom:link href="https://elogii.com/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Sep 2020 10:00:00 +0000</lastBuildDate><atom:link href="https://elogii.com/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test broj 2</title>
       <link>https://elogii.com/news/test-broj-2/</link>
@@ -23,6 +23,15 @@
       
       <guid>https://elogii.com/news/test-news/</guid>
       <description>TESTNEWS</description>
+    </item>
+    
+    <item>
+      <title>eLogii awarded a spot on the G-Cloud12 Framework in the UK</title>
+      <link>https://elogii.com/news/elogii-awarded-a-spot-on-the-g-cloud12-framework-in-the-uk/</link>
+      <pubDate>Mon, 28 Sep 2020 10:00:00 +0000</pubDate>
+      
+      <guid>https://elogii.com/news/elogii-awarded-a-spot-on-the-g-cloud12-framework-in-the-uk/</guid>
+      <description>eLogii is now part of the G-Cloud 12 Framework which helps Public Sector Organizations find, evaluate, and buy cloud services from a selection of suppliers based in the United Kingdom.</description>
     </item>
     
     <item>

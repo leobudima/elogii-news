@@ -378,6 +378,31 @@
 }
 
 .head-image {
-  width: 100%;
   margin-bottom: 80px;
+  height: 600px;
+  width: 975px;
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    .row {
+      .headline {
+        font-size: 50px;
+        .tm {
+          font-size: 13px;
+          bottom: 32px;
+        }
+      }
+      .headline:first-child {
+        margin-top: 30px;
+      }
+      .headline3 {
+        font-size: 22px;
+      }
+    }
+  }
+  .head-image {
+    width: 500px;
+    height: 300px;
+  }
 }

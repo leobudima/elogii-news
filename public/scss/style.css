@@ -573,8 +573,23 @@ a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-prima
   width: 100%; }
 
 .head-image {
-  width: 100%;
-  margin-bottom: 80px; }
+  margin-bottom: 80px;
+  height: 600px;
+  width: 975px; }
+
+@media screen and (max-width: 768px) {
+  .container .row .headline {
+    font-size: 50px; }
+    .container .row .headline .tm {
+      font-size: 13px;
+      bottom: 32px; }
+  .container .row .headline:first-child {
+    margin-top: 30px; }
+  .container .row .headline3 {
+    font-size: 22px; }
+  .head-image {
+    width: 500px;
+    height: 300px; } }
 
 article.card .card-img-top {
   max-height: 280px;
