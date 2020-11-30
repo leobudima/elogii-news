@@ -5,7 +5,7 @@ description = "Unimasters chooses eLogii, the leading next generation Delivery M
 image = "/news/uploads/elogii-news-g-cloud12-framework.jpg"
 title = "Unimasters chooses eLogii to introduce route optimisation"
 titletag = "Unimasters chooses eLogii to introduce route optimisation"
-type = "post"
+type = "Post"
 
 +++
 **_Unimasters chooses eLogii, the leading next-generation Delivery Management platform to introduce fully interactive, dynamic planning and route optimisation in the first and last mile_**
