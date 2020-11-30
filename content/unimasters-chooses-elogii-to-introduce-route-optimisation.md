@@ -2,7 +2,6 @@
 canonical = "https://elogii.com/news/unimasters-chooses-elogii-to-introduce-route-optimisation"
 date = 2020-11-30T11:00:00Z
 description = "Unimasters chooses eLogii, the leading next generation Delivery Management platform to introduce fully interactive, dynamic planning and route optimisation in the first and last mile."
-draft = true
 image = "/news/uploads/elogii-news-g-cloud12-framework.jpg"
 title = "Unimasters chooses eLogii to introduce route optimisation"
 titletag = "Unimasters chooses eLogii to introduce route optimisation"
