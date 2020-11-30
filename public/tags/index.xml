@@ -5,25 +5,6 @@
     <link>https://elogii.com/news/tags/</link>
     <description>Recent content in Tags on eLogii News - Delivery and Field Service Management News</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2020 10:00:00 +0000</lastBuildDate><atom:link href="https://elogii.com/news/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Delivery Logistics</title>
-      <link>https://elogii.com/news/tags/delivery-logistics/</link>
-      <pubDate>Mon, 20 Apr 2020 10:00:00 +0000</pubDate>
-      
-      <guid>https://elogii.com/news/tags/delivery-logistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Last-Mile Delivery</title>
-      <link>https://elogii.com/news/tags/last-mile-delivery/</link>
-      <pubDate>Mon, 20 Apr 2020 10:00:00 +0000</pubDate>
-      
-      <guid>https://elogii.com/news/tags/last-mile-delivery/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://elogii.com/news/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
