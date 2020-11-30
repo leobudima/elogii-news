@@ -577,6 +577,9 @@ a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-prima
   height: 600px;
   width: 975px; }
 
+.media-contact .btn {
+  text-transform: none; }
+
 @media screen and (max-width: 768px) {
   .container .row .headline {
     font-size: 50px; }

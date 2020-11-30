@@ -383,6 +383,12 @@
   width: 975px;
 }
 
+.media-contact {
+  .btn {
+    text-transform: none;
+  }
+}
+
 @media screen and (max-width: 768px) {
   .container {
     .row {
