@@ -24,15 +24,15 @@ With eLogii’s powerful [**SaaS solution**](https://elogii.com/platform "delive
 
 According to [**Nikolai Bozhilov**](https://www.linkedin.com/in/nikolai-bozhilov-0b11643/?originalSubdomain=bg "Nikolai Bozhilov"), **_Executive Chairman of Unimasters Logistics Plc_**:
 
-> “We have been extremely impressed with the capabilities of the eLogii solution, as well as the value for money that the solution provides. The solution is enterprise-grade, but our teams find it as easy to use as consumer software. We forecast significant savings, as well as a materially enhanced customer experience which is why we are looking forward to a strong multi-year partnership together.”
+“We have been extremely impressed with the capabilities of the eLogii solution, as well as the value for money that the solution provides. The solution is enterprise-grade, but our teams find it as easy to use as consumer software. We forecast significant savings, as well as a materially enhanced customer experience which is why we are looking forward to a strong multi-year partnership together.”
 
 Following the partnership with Unimaster, [**Andrew Mukerjee**](https://app.forestry.io/sites/5xfhdx5fuislda/#/pages/content-unimasters-chooses-elogii-to-introduce-route-optimisation-md/), **_Founder and CEO of eLogii/Brisqq said_**:
 
-> “Enterprise-grade logistics software doesn’t have to be so difficult to use or overpriced – we have the most user-friendly, cost-effective solution in the market, which we will build into the market standard when it comes to Delivery Management.”
+“Enterprise-grade logistics software doesn’t have to be so difficult to use or overpriced – we have the most user-friendly, cost-effective solution in the market, which we will build into the market standard when it comes to Delivery Management.”
 
 He continued by complimenting the decision, saying:
 
-> “Unimasters is an extremely forward-thinking business which always puts the customer first, and we are looking forward to supporting their growth by enabling a phenomenal customer experience for years to come”.
+“Unimasters is an extremely forward-thinking business which always puts the customer first, and we are looking forward to supporting their growth by enabling a phenomenal customer experience for years to come”.
 
 ## What is eLogii?
 
