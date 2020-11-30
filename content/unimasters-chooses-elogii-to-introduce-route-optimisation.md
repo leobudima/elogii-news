@@ -3,12 +3,11 @@ canonical = "https://elogii.com/news/unimasters-chooses-elogii-to-introduce-rout
 date = 2020-11-30T10:00:00Z
 description = "Unimasters chooses eLogii, the leading next generation Delivery Management platform to introduce fully interactive, dynamic planning and route optimisation in the first and last mile."
 image = "/news/uploads/elogii-news-g-cloud12-framework.jpg"
-title = "Unimasters chooses eLogii to introduce route optimisation"
+title = "Unimasters chooses eLogii, the leading next generation Delivery Management platform"
 titletag = "Unimasters chooses eLogii to introduce route optimisation"
 type = "post"
 
 +++
-
 **_Unimasters chooses eLogii, the leading next-generation Delivery Management platform to introduce fully interactive, dynamic planning and route optimisation in the first and last mile_**
 
 **Unimasters** has chosen **eLogii**, the leading next-generation Delivery Management and [**Route Optimisation**](https://elogii.com/blog/guide-to-route-optimization-software/ "Route optimization software") solution to replace static with fully dynamic delivery tour planning.
@@ -31,7 +30,7 @@ After it was announced, [**Andrew Mukerjee**](https://www.linkedin.com/in/andrew
 
 > “Enterprise-grade logistics software doesn’t have to be so difficult to use or overpriced – we have the most user-friendly, cost-effective solution in the market, which we will build into the market standard when it comes to Delivery Management.”
 
-He continued by complimenting the decision, saying:
+Mukerjee continued by explaining:
 
 > “Unimasters is an extremely forward-thinking business which always puts the customer first, and we are looking forward to supporting their growth by enabling a phenomenal customer experience for years to come”.
 
