@@ -42,5 +42,6 @@ fields:
     required: false
   label: title tag
 pages:
+- content/7-key-metrics-in-delivery-logistics-to-measure-for-success-copy.md
 - content/7-key-metrics-in-delivery-logistics-to-measure-for-success.md
 - content/unimasters-chooses-elogii-to-introduce-route-optimisation.md
