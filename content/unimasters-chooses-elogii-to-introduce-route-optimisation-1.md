@@ -11,11 +11,11 @@ type = "post"
 +++
 **_Unimasters chooses eLogii, the leading next-generation Delivery Management platform to introduce fully interactive, dynamic planning and route optimisation in the first and last mile_**
 
-**Unimasters** has chosen **eLogii**, the leading next-generation Delivery Management and [**Route Optimisation**](https://elogii.com/blog/guide-to-route-optimization-software/ "Route optimization software") solution to replace static with fully dynamic delivery tour planning. 
+**Unimasters** has chosen **eLogii**, the leading next-generation Delivery Management and [**Route Optimisation**](https://elogii.com/blog/guide-to-route-optimization-software/ "Route optimization software") solution to replace static with fully dynamic delivery tour planning.
 
 **The result** will be in significantly reduced tour numbers in their first and last-mile operations and greatly enhanced efficiency.
 
-Unimasters is an advanced supply chain management company with regional infrastructure and global reach through first-class partners in **178 countries**. 
+Unimasters is an advanced supply chain management company with regional infrastructure and global reach through first-class partners in **178 countries**.
 
 The company provides **managed transportation** and **logistics-as-a-service** to a wide range of multinational and local customers.
 
@@ -29,19 +29,18 @@ With [**eLogii’s powerful SaaS solution**](https://elogii.com/platform "delive
 
 After it was announced, [**Andrew Mukerjee**](https://www.linkedin.com/in/andrew-mukerjee-93246822/?originalSubdomain=uk "Andrew Mukerjee"), **_Founder and CEO of eLogii/Brisqq_**, said:
 
-> “Enterprise-grade logistics software doesn’t have to be so difficult to use or overpriced – we have the most user-friendly, cost-effective solution in the market, which we will build into the market standard when it comes to Delivery Management.” 
+> “Enterprise-grade logistics software doesn’t have to be so difficult to use or overpriced – we have the most user-friendly, cost-effective solution in the market, which we will build into the market standard when it comes to Delivery Management.”
 
-He continued by complimenting the decision, saying: 
+He continued by complimenting the decision, saying:
 
 > “Unimasters is an extremely forward-thinking business which always puts the customer first, and we are looking forward to supporting their growth by enabling a phenomenal customer experience for years to come”.
 
 ## About Unimasters:
 
-**Unimasters Logistics Plc** is an innovative, advanced supply chain management company, headquartered in Bulgaria with fully owned subsidiaries in Romania and Hungary. 
+**Unimasters Logistics Plc** is an innovative, advanced supply chain management company, headquartered in Bulgaria with fully owned subsidiaries in Romania and Hungary.
 
 It specialises in delivering a range of customer-oriented, technologically and operationally advanced solutions in the field of transportation, freight management, logistics and e-commerce.
 
-##   
-What is eLogii?
+## What is eLogii?
 
 **eLogii** is the leading **Delivery Management platform** enabling interactive route optimisation, planning and dispatch for delivery and field services organisations – regardless of the business size, industry, and complexity of an organisation’s operations
