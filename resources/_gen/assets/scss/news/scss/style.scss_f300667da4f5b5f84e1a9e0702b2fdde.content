@@ -577,6 +577,12 @@ a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-prima
   height: 600px;
   width: 975px; }
 
+.news-small {
+  display: none; }
+
+.news-large {
+  display: block; }
+
 .media-contact .btn {
   text-transform: none;
   color: #00b7e5; }
@@ -592,8 +598,23 @@ a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-prima
   .container .row .headline3 {
     font-size: 22px; }
   .head-image {
-    width: 500px;
-    height: 300px; } }
+    width: auto;
+    height: 300px;
+    text-align: center;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px; }
+  .news-small {
+    display: block; }
+  .news-large {
+    display: none; } }
+
+@media screen and (max-width: 650px) {
+  .container .row .headline {
+    text-align: center; }
+  .container .row .headline3 {
+    text-align: center; } }
 
 article.card .card-img-top {
   max-height: 280px;
