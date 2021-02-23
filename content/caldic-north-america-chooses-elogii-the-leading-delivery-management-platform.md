@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/blog/caldic-and-elogii-delivery-management-platform"
+canonical = "https://elogii.com/news/caldic-and-elogii-delivery-management-platform"
 date = 2021-02-23T11:00:00Z
 description = "Caldic North America has chosen eLogii, the leading next-generation Delivery Management, and Route Optimisation solution to drive efficiency across their distribution operations."
 image = "/news/uploads/caldic-and-elogii-delivery-management-platform.jpg"
