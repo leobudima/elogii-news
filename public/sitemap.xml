@@ -1,27 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://elogii.com/news/caldic-north-america-chooses-elogii-the-leading-delivery-management-platform/</loc>
     <lastmod>2021-02-23T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://elogii.com/news/unimasters-chooses-elogii-to-introduce-route-optimisation/</loc>
     <lastmod>2020-12-01T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://elogii.com/news/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://elogii.com/news/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://elogii.com/news/tags/</loc>
   </url>
-  
 </urlset>
