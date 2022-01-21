@@ -54,7 +54,7 @@ It specialises in delivering a range of customer-oriented, technologically and o
   </table>
 
   <iframe src="https://www.youtube.com/embed/lUd9SQCkDj0" frameborder="0" allowfullscreen="true"> </iframe>
-This is another regular paragraph.
+
 </code>
 
 <figure class="video_container">
