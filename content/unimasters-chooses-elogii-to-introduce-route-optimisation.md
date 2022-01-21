@@ -44,11 +44,7 @@ It specialises in delivering a range of customer-oriented, technologically and o
 
 **eLogii** is the leading [**Delivery Management platform**](https://elogii.com/blog/delivery-management-platforms/ "delivery management platform") enabling interactive route optimisation, planning and dispatch for delivery and field services organisations – regardless of the business size, industry, and complexity of an organisation’s operations
 
-<figure class="video_container">
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/lUd9SQCkDj0](https://www.youtube.com/embed/lUd9SQCkDj0 "https://www.youtube.com/embed/lUd9SQCkDj0")"></iframe> </figure>
 
-    <!-- blank line -->
-    <figure class="video_container">
-      <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
-    </figure>
-    <!-- blank line -->
+<figure class="video_container">
+<iframe src="https://www.youtube.com/embed/lUd9SQCkDj0" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
