@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/news/unimasters-chooses-elogii-to-introduce-route-optimisation"
+canonical = "https://elogii.com/news/unimasters-chooses-elogii-to-introduce-route-optimisation/"
 date = 2020-12-01T09:00:00Z
 description = "Unimasters chooses eLogii to introduce fully interactive, dynamic planning and route optimisation in the first and last mile."
 image = "/news/uploads/elogii-and-unimasters.png"
