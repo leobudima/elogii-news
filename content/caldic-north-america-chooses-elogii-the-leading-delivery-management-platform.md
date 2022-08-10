@@ -1,5 +1,5 @@
 +++
-canonical = "https://elogii.com/news/caldic-and-elogii-delivery-management-platform/"
+canonical = "https://elogii.com/news/caldic-north-america-chooses-elogii-the-leading-delivery-management-platform/"
 date = 2021-02-23T11:00:00Z
 description = "Caldic North America has chosen eLogii, the next-generation Delivery Management to drive efficiency across their distribution operations."
 image = "/news/uploads/caldic-and-elogii-delivery-management-platform.jpg"
